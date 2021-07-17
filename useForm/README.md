@@ -8,6 +8,5 @@ Ejemplo de uso:
         email: ''
     }
 
-    const url = 'endpoint de una api';
     const [ formValues, handleInputChange, reset ] = useForm( initialForm );//valores de los campos del formulario inicial
 ```
